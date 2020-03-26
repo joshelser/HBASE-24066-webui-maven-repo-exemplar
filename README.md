@@ -20,6 +20,7 @@ Update the repository `url` to be the hostname for your HBase master.
       <id>hbase-webui-maven-repo</id>
       <url>http://<correct-hostname-here>:16010/static/maven-repo/</url>
       <name>Maven repository exposed by HBase Master WebUI</name>
+    </repository>
 ```
 
 # Build the exemplar
